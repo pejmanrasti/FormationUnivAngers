@@ -1,3 +1,7 @@
+# Link to Segmentation Data (pommes): https://uabox.univ-angers.fr/index.php/s/RdKQdFtERuljjTY
+
+# Link to Segmentation Data (leaves): https://uabox.univ-angers.fr/index.php/s/uGDSduaidvtM2Oa
+
 # Jour 3. : 10 décembre 2020
 * Matin ou en asynchrone cours (vidéo en ligne)
 * Advanced deep learning with RNN and application to seedling growth
